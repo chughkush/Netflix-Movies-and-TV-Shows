@@ -2,6 +2,8 @@
 
 **NOTE :**  Dataset and problem statement has been collected by [Kaggle](https://www.kaggle.com/shivamb/netflix-shows).
 
+Github is not displaying the images that have been uploaded, so you can find the compiled notebook on my Kaggle profile [HERE](https://www.kaggle.com/kushagrachugh/netflix-analysis-using-tableau).
+
 I have used Tableau to analyse and get insights from the Netflix dataset. All the charts are uploaded on Imgur as jpgs, and then used in the Jupyter notebook to showcase the charts.
 
 ### Context
